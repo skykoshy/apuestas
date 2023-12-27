@@ -1,5 +1,5 @@
 # laravel-test
-prueba técnica Mejora y soluciones SAS
+prueba técnica Sigma movil 
 
 pasos para instalar:
 
